@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Git Hub</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  	<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+<style>
+  body {
+    color: rgba(255,255,255,0.65);
+    background-color: #24292e;
+    background-image: url(https://desktop.github.com/images/star-bg.svg),linear-gradient(#191c20, #24292e 15%);
+    background-repeat: repeat-x;
+  background-position: center 0, 0 0, 0 0;}
+  .btn-desktop-purple{
+    background-color: #8241f9 !important;
+    border-color: #150a27;
+    color: #fff;
+    position: relative;
+    display: inline-block;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    background-repeat: repeat-x;
+    background-position: -1px -1px;
+    background-size: 110% 110%;
+    border: 1px solid rgba(27,31,35,0.2);
+    border-radius: 0.25em;
+    appearance: none;
+  }
+  
+  .pl-20 {padding-left:30%;}
+  .pr-20{padding-right:30%;}
+  .pb-20{padding-bottom:23%;}
+  .facebook{
+	color: #ffff;
+	  padding: 4px 12px;
+    display: inline-block;
+	line-height: 1px;
+	
+
+}
+
+a {
+color: #000;
+}
+.fas{
+color: #ffff; 
+}
+.link{
+color: #000;
+}
+
+
+.fa{
+color: #ffff;
+
+}
+#footer{
+		background: #000000;
+	
+		}
+		#footer .copyright {
+			text-align: center;
+			padding-top: 15px;
+		}
+		.fab{
+			font-size: 23px;
+			padding: 5px;
+		   border-right:1px solid #fff ;
+		   color: #fff;
+		}
+		.fa-github{
+			border: none;
+		}
+	.fa-facebook-f{
+		border: none;
+	}
+.fa-heart{
+  color:#d41b1b;
+}
+
+ 
+  </style>
+<body >
+  <div class="text-center">
+<img src="https://desktop.github.com/images/desktop-icon.svg" alt="GitHub Desktop" width="96" height="96"class="text-center">
+  </div>
+  <h2 class="text-center">
+		Sign in To GitHub
+	</h2>
+  <div class"row pb-5">
+    <div >
+  <form class"pl-5 pr-5 ">
+     <div class="form-group pl-20 pr-20">
+    <label for="exampleInputEmail1">Username</label>
+    <input type="txt" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Username">
+  </div>
+  <div class="form-group pl-20 pr-20">
+    <label for="exampleInputEmail1">Email</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+  </div>
+    
+  <div class="form-group pl-20 pr-20">
+    <label for="exampleInputPassword1">Password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+  </div>
+    <div class="pl-20 pr-20 pb-20">
+  <button type="submit" class="btn btn-block btn-desktop-purple  ">Sign up for GitHub</button>
+    </div>
+</form>
+    </div>
+<footer id="footer">
+    <div class="container">
+      <div class="copyright">
+       <p class="copyright">Made With <i class="fas fa-heart"></i> By M&M © 2020</p>
+      <div class="copyright">   
+          <a href="https://www.facebook.com/M2MPortfolio"class="icon">
+        <i class="fab fa-facebook"></i>
+    </a>
+   
+    <a href="https://codepen.io/Mohmed-Mahmoud" class="icon">
+<i class="fab fa-codepen"></i>
+        </a>
+    <a href="https://github.com/Mo-M-F-Abdlgany" class="icon">
+<i class="fab fa-github"></i>
+        </a>
+    </div>
+
+     
+    </div>
+  </footer>
+  
+  
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
